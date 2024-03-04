@@ -1,0 +1,172 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.intro{
+    border: 1px solid;
+    /* height: 100vh; */
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.img{
+   display: flex;
+   justify-content: center;
+   
+}
+
+img{
+    border: 2px solid;
+    height: 150px;
+    width: 150px;
+    border-radius: 110px;
+}
+
+.link{
+    display: flex;
+    justify-content: center;
+}
+
+.bg{
+    border: 4px solid white;
+    background-color: crimson;
+    color: white;
+    display: flex;
+    justify-content: center;
+    width: 55%;
+    /* padding-left: 85px; */
+}
+
+/* .interest{
+    border: 4px solid white;
+    background-color: crimson;
+    color: white;
+    display: flex;
+    justify-content: center;
+    width: 55%;
+} */
+
+.education{
+    border: 4px solid white;
+    background-color: crimson;
+    color: white;
+    display: flex;
+    justify-content: center;
+    width: 55%;
+    /* padding-left: 85px; */
+}
+
+.professional{
+    border: 4px solid white;
+    background-color: crimson;
+    color: white;
+    display: flex;
+    justify-content: center;
+    width: 55%;
+    /* padding-left: 85px; */
+}
+
+.Personal{
+    border: 4px solid white;
+    background-color: crimson;
+    color: white;
+    display: flex;
+    justify-content: center;
+    width: 55%;
+    /* padding-left: 85px; */
+}
+
+.future{
+    border: 4px solid white;
+    background-color: crimson;
+    color: white;
+    display: flex;
+    justify-content: center;
+    width: 55%;
+    /* padding-left: 85px; */
+}
+
+/* .travel{
+    border: 4px solid white;
+    background-color: crimson;
+    color: white;
+    display: flex;
+    justify-content: center;
+    width: 55%;
+} */
+
+.hobbies{
+    border: 4px solid white;
+    background-color: crimson;
+    color: white;
+    display: flex;
+    justify-content: center;
+    width: 55%;
+    /* padding-left: 85px; */
+}
+
+.figure{
+    border: 4px solid white;
+    background-color: crimson;
+    color: white;
+    display: flex;
+    justify-content: center;
+    width: 55%;
+}
+
+/* .Culture{
+    border: 4px solid white;
+    background-color: red;
+    color: white;
+    display: flex;
+    justify-content: center;
+    width: 60%;
+} */
+
+
+button{
+    border: 0;
+    color: blue;
+    background-color: crimson;
+    height: 30px;
+}
+
+
+button:hover{
+    color: black;
+    background-color: aliceblue;
+    cursor: pointer;
+    height: 30px;
+}
+
+#Btn{
+    
+    height: 35px;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+/* @media all and(max-width:350px){
+#Btn{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-top: 10px;
+}
+} */
+
+h3{
+    font-size: auto;
+}
+
+/* @media all and(max-width:350px){
+    h3{
+        font-size: 10px;
+    }
+} */
+
