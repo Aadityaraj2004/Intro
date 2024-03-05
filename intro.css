@@ -163,8 +163,8 @@ button:hover{
 h3{
     font-size: auto;
 }
-
-/* @media all and(max-width:350px){
+/* 
+ @media all and(max-width:350px){
     h3{
         font-size: 10px;
     }
